@@ -1,0 +1,6 @@
+C:\Users\Wendy\source\repos\InsuranceDrill\InsuranceDrill\bin\Debug\InsuranceDrill.exe.config
+C:\Users\Wendy\source\repos\InsuranceDrill\InsuranceDrill\bin\Debug\InsuranceDrill.exe
+C:\Users\Wendy\source\repos\InsuranceDrill\InsuranceDrill\bin\Debug\InsuranceDrill.pdb
+C:\Users\Wendy\source\repos\InsuranceDrill\InsuranceDrill\obj\Debug\InsuranceDrill.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\InsuranceDrill\InsuranceDrill\obj\Debug\InsuranceDrill.exe
+C:\Users\Wendy\source\repos\InsuranceDrill\InsuranceDrill\obj\Debug\InsuranceDrill.pdb
